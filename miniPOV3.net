@@ -1,0 +1,288 @@
+# EESchema Netlist Version 1.1 created  Sun 14 Oct 2012 07:11:11 PM CDT
+(
+ ( /503E493D LED-5MM_FIXED D1 LED
+  ( 1 N-000008 )
+  ( 2 GND )
+ )
+ ( /503E4932 LED-5MM_FIXED D2 LED
+  ( 1 N-000007 )
+  ( 2 GND )
+ )
+ ( /503E4934 LED-5MM_FIXED D3 LED
+  ( 1 N-000001 )
+  ( 2 GND )
+ )
+ ( /503E493C LED-5MM_FIXED D4 LED
+  ( 1 N-000009 )
+  ( 2 GND )
+ )
+ ( /503E493B LED-5MM_FIXED D5 LED
+  ( 1 N-000010 )
+  ( 2 GND )
+ )
+ ( /503E493A LED-5MM_FIXED D6 LED
+  ( 1 N-000022 )
+  ( 2 GND )
+ )
+ ( /503E4933 LED-5MM_FIXED D7 LED
+  ( 1 N-000021 )
+  ( 2 GND )
+ )
+ ( /503E4936 LED-5MM_FIXED D8 LED
+  ( 1 N-000019 )
+  ( 2 GND )
+ )
+ ( /503E4947 DO-41 D9 1N4729
+  ( 1 GND )
+  ( 2 /RESET )
+ )
+ ( /503E4CEE DO-41 D10 1N4729
+  ( 1 GND )
+  ( 2 /MOSI )
+ )
+ ( /503E4D96 DO-41 D11 1N4729
+  ( 1 GND )
+  ( 2 /SCK )
+ )
+ ( /503E4501 DIP-20__300_ELL IC1 ATTINY2313-P
+  ( 1 /RESET )
+  ( 2 ? )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 /CLKOUT )
+  ( 7 ? )
+  ( 8 ? )
+  ( 9 ? )
+  ( 10 GND )
+  ( 11 ? )
+  ( 12 N-000020 )
+  ( 13 N-000027 )
+  ( 14 N-000023 )
+  ( 15 N-000028 )
+  ( 16 N-000029 )
+  ( 17 /MOSI )
+  ( 18 /MISO )
+  ( 19 /SCK )
+  ( 20 N-000035 )
+ )
+ ( /503E4516 DB9F_CI J1 DB9
+  ( 1 ? )
+  ( 2 ? )
+  ( 3 N-000033 )
+  ( 4 N-000034 )
+  ( 5 GND )
+  ( 6 ? )
+  ( 7 N-000013 )
+  ( 8 /MISO )
+  ( 9 ? )
+ )
+ ( /503E452E SIL-3 P1 CONN_SNS
+  ( 1 VCC )
+  ( 2 GND )
+  ( 3 /CLKOUT )
+ )
+ ( /503E4529 SIL-2 P2 CONN_BATT
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /503E46D2 R4 R1 100
+  ( 1 N-000008 )
+  ( 2 /SCK )
+ )
+ ( /503E4AC8 R4 R2 100
+  ( 1 N-000007 )
+  ( 2 /MISO )
+ )
+ ( /503E4AA6 R4 R3 100
+  ( 1 N-000001 )
+  ( 2 /MOSI )
+ )
+ ( /503E4ACA R4 R4 100
+  ( 1 N-000009 )
+  ( 2 N-000029 )
+ )
+ ( /503E4AFF R4 R5 100
+  ( 1 N-000010 )
+  ( 2 N-000028 )
+ )
+ ( /503E4B06 R4 R6 100
+  ( 1 N-000022 )
+  ( 2 N-000023 )
+ )
+ ( /503E4B0B R4 R7 100
+  ( 1 N-000021 )
+  ( 2 N-000027 )
+ )
+ ( /503E4B12 R4 R8 100
+  ( 1 N-000019 )
+  ( 2 N-000020 )
+ )
+ ( /503E4C56 R4 R9 4.7K
+  ( 1 /RESET )
+  ( 2 N-000013 )
+ )
+ ( /503E4CE1 R4 R10 4.7K
+  ( 1 /MOSI )
+  ( 2 N-000033 )
+ )
+ ( /503E4D93 R4 R11 4.7K
+  ( 1 /SCK )
+  ( 2 N-000034 )
+ )
+ ( /503E7338 SWITCH_SPDT_WEALTH-METAL SW1 SPDT
+  ( 1 ? )
+  ( 2 VCC )
+  ( 3 N-000035 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D5
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D6
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D7
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D8
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D9
+ D?
+ S*
+ DO*
+$endlist
+$component D10
+ D?
+ S*
+ DO*
+$endlist
+$component D11
+ D?
+ S*
+ DO*
+$endlist
+$component J1
+ DB9*
+$endlist
+$component P1
+ PAD_3
+ BORNIER_3*
+$endlist
+$component P2
+ PAD_2
+ BORNIER_2*
+$endlist
+$component R1
+ R?
+ R_*
+$endlist
+$component R2
+ R?
+ R_*
+$endlist
+$component R3
+ R?
+ R_*
+$endlist
+$component R4
+ R?
+ R_*
+$endlist
+$component R5
+ R?
+ R_*
+$endlist
+$component R6
+ R?
+ R_*
+$endlist
+$component R7
+ R?
+ R_*
+$endlist
+$component R8
+ R?
+ R_*
+$endlist
+$component R9
+ R?
+ R_*
+$endlist
+$component R10
+ R?
+ R_*
+$endlist
+$component R11
+ R?
+ R_*
+$endlist
+$component SW1
+ PAD3
+ SWITCH*
+$endlist
+$endfootprintlist
+}

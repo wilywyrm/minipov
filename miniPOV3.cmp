@@ -1,0 +1,192 @@
+Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Sun 14 Oct 2012 07:11:11 PM CDT
+
+BeginCmp
+TimeStamp = /503E493D;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-5MM_FIXED;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4932;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM_FIXED;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4934;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-5MM_FIXED;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E493C;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-5MM_FIXED;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E493B;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED-5MM_FIXED;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E493A;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED-5MM_FIXED;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4933;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED-5MM_FIXED;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4936;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED-5MM_FIXED;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4947;
+Reference = D9;
+ValeurCmp = 1N4729;
+IdModule  = DO-41;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4CEE;
+Reference = D10;
+ValeurCmp = 1N4729;
+IdModule  = DO-41;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4D96;
+Reference = D11;
+ValeurCmp = 1N4729;
+IdModule  = DO-41;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4501;
+Reference = IC1;
+ValeurCmp = ATTINY2313-P;
+IdModule  = DIP-20__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4516;
+Reference = J1;
+ValeurCmp = DB9;
+IdModule  = DB9F_CI;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E452E;
+Reference = P1;
+ValeurCmp = CONN_SNS;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4529;
+Reference = P2;
+ValeurCmp = CONN_BATT;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E46D2;
+Reference = R1;
+ValeurCmp = 100;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4AC8;
+Reference = R2;
+ValeurCmp = 100;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4AA6;
+Reference = R3;
+ValeurCmp = 100;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4ACA;
+Reference = R4;
+ValeurCmp = 100;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4AFF;
+Reference = R5;
+ValeurCmp = 100;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4B06;
+Reference = R6;
+ValeurCmp = 100;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4B0B;
+Reference = R7;
+ValeurCmp = 100;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4B12;
+Reference = R8;
+ValeurCmp = 100;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4C56;
+Reference = R9;
+ValeurCmp = 4.7K;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4CE1;
+Reference = R10;
+ValeurCmp = 4.7K;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E4D93;
+Reference = R11;
+ValeurCmp = 4.7K;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E7338;
+Reference = SW1;
+ValeurCmp = SPDT;
+IdModule  = SWITCH_SPDT_WEALTH-METAL;
+EndCmp
+
+EndListe
